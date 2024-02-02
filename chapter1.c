@@ -9,6 +9,4 @@ int main()
     float area = side * side;
     printf("The area is : %f \n", area);
     return 0;
-
-
 }
